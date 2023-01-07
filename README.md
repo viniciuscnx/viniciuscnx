@@ -23,7 +23,7 @@
 <div align="center">
   <img align="left" height="360px" width="380px" alt="quote"  src="https://user-images.githubusercontent.com/121893944/211154575-4c5afc35-3629-4c0d-a24b-2e531a9ee888.gif">
   <a href="https://github.com/viniciuscnx">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=viniciuscnx&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=viniciuscnx&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscnx&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
